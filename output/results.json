@@ -1,0 +1,8 @@
+{
+  "baseline_clean_accuracy": 0.9972,
+  "adversarial_accuracy_undefended": 0.9962,
+  "attack_success_rate_undefended": 0.0012,
+  "defended_clean_accuracy": 0.9972,
+  "defended_adversarial_accuracy": 0.9972,
+  "attack_success_rate_defended": 0.0
+}
